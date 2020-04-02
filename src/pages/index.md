@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/flavor_wheel.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: OWNRS kommer snart
+image: /img/products-grid2.jpg
+heading: OWNRS
+subheading: Investering i ejendom er for alle
 mainpitch:
   title: 'Why Kaldsvekroken '
   description: >
